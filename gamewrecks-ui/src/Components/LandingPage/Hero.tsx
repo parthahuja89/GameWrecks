@@ -14,7 +14,7 @@ export default function Hero() {
         Experience
       </h1>
       <h2 className="text-xl md:text-2xl font-light text-slate-400 mt-5">
-        Game Wrecks uses AI to recommend games based on your Steam library. It's
+        Game Wrecks uses your game library to recommend you new games to play. It's
         also completely free to use and open source. You can check out the code
         on{" "}
         <a
